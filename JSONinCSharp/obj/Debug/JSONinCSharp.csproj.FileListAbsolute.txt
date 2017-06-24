@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\bin\Debug\JSONinCSharp.exe.config
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\bin\Debug\JSONinCSharp.exe
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\bin\Debug\JSONinCSharp.pdb
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\obj\Debug\JSONinCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\obj\Debug\JSONinCSharp.exe
+C:\Users\Stoycho\Desktop\JSONinCSharp\JSONinCSharp\obj\Debug\JSONinCSharp.pdb

@@ -1,0 +1,12 @@
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\ParsingDictionaries.exe.config
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\ParsingDictionaries.exe
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\ParsingDictionaries.pdb
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\AutoMapper.dll
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\EntityFramework.dll
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\AutoMapper.xml
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\EntityFramework.xml
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\obj\Debug\ParsingDictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\obj\Debug\ParsingDictionaries.exe
+C:\Users\Stoycho\Desktop\JSONinCSharp\ParsingDictionaries\obj\Debug\ParsingDictionaries.pdb
