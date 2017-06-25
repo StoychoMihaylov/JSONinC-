@@ -1,0 +1,5 @@
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLserializer\bin\Debug\XMLserializer.exe.config
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLserializer\bin\Debug\XMLserializer.exe
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLserializer\bin\Debug\XMLserializer.pdb
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLserializer\obj\Debug\XMLserializer.exe
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLserializer\obj\Debug\XMLserializer.pdb

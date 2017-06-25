@@ -1,0 +1,6 @@
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\bin\Debug\XMLprocessiong.exe.config
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\bin\Debug\XMLprocessiong.exe
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\bin\Debug\XMLprocessiong.pdb
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\obj\Debug\XMLprocessiong.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\obj\Debug\XMLprocessiong.exe
+C:\Users\Stoycho\Desktop\XMLprocessiong\XMLprocessiong\obj\Debug\XMLprocessiong.pdb
